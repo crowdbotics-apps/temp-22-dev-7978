@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import BlankScreen29207Navigator from '../features/BlankScreen29207/navigator';
 import EmailAuth39206Navigator from '../features/EmailAuth39206/navigator';
 import BlankScreen29203Navigator from '../features/BlankScreen29203/navigator';
-import EmailAuth39202Navigator from '../features/EmailAuth39202/navigator';
 import BlankScreen29200Navigator from '../features/BlankScreen29200/navigator';
 import EmailAuth39199Navigator from '../features/EmailAuth39199/navigator';
 
@@ -22,7 +21,6 @@ const AppNavigator = {
 BlankScreen29207: { screen: BlankScreen29207Navigator },
 EmailAuth39206: { screen: EmailAuth39206Navigator },
 BlankScreen29203: { screen: BlankScreen29203Navigator },
-EmailAuth39202: { screen: EmailAuth39202Navigator },
 BlankScreen29200: { screen: BlankScreen29200Navigator },
 EmailAuth39199: { screen: EmailAuth39199Navigator },
 
